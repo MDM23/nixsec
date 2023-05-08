@@ -1,0 +1,11 @@
+[package]
+name = "nixsec"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+argh = "0.1"
+cursive = "0.20"
+home = "0.5"
+nixel = "5.2"
+whoami = "1.4"
